@@ -1,4 +1,4 @@
--- THIS SCRIPT IS MADE BY FoxTheNimrod
+-- THIS SCRIPT IS MADE BY FoxTheNimrod/TheAimMeister on github
 -- I am still learning lua and the environment of Roblox.
 -- How I managed to get this to work as it is, is stunning to me.
 -- And yes, I am aware the script is a mess
