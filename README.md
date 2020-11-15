@@ -5,4 +5,4 @@ Current issues & limitations:
 - Unable to remove existing values from the table if a humanoid no longer exists
 - Can handle up to 50 bots *
 
-* Testing done via Roblox studio, and on the following specs (Intel core i5-8400, NVidia GeForce GTX 1060 6GB)
+\* Testing done via Roblox studio, and on the following specs (Intel core i5-8400, NVidia GeForce GTX 1060 6GB)
